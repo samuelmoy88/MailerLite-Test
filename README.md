@@ -6,7 +6,7 @@ Welcome to my MailerLite test!
   The DB is located in the root folder and the credentials are in /Core/config.php
   
 ## App/Frontend:
-  The App is already compiled in app.mailerlite.localhost/dist folder, the API calls are hardcoded to 'http://api.mailerlite.localhost'.
+  The App is already compiled in app.mailerlite.localhost/dist folder, the API calls are hardcoded to `http://api.mailerlite.localhost`.
   If you wish to change something, just run `npn install` first 
   
 ## The routes go as following:
