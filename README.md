@@ -30,6 +30,6 @@ Welcome to my MailerLite test!
     PUT `/subscribers/:subscriber/fields/:id` will update a given Subscriber field\
     DELETE `/subscribers/:subscriber/fields/:id` will delete a given Subscriber field\
   
-The package used to validate the email addresses is using 'info@mailerlite.com' as default to the be provided to the API.
+The package used to validate the email addresses is using `info@mailerlite.com` as default to the be provided to the API.
 
 Thanks again for the opportunity!
