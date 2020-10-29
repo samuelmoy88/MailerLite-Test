@@ -10,3 +10,5 @@ App/Frontend:
   If you wish to change something, just run `npn install` first
   
 The package used to validate the email addresses is using 'info@mailerlite.com' as default to the be provided to the API.
+
+Thanks again for the opportunity!
